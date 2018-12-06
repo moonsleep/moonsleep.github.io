@@ -19,5 +19,5 @@ I am an assistant professor at [the University of Iowa College of Nursing](https
 
 My research interest is the circadian rhythm in cardiovascular disease patients and how that impact brain structure and function. Particularly, I have been involved in both clinical and epidemiological studies looking at connections across, sleep, brain, and heart. My research utilizes both in-lab and home-based sleep studies, neuroimaging, and behavioral data. I believe through healthy sleep, we could have healthier minds and body. 
 
-I have two young children, Natalie and Nathan. Married to an [astrophysist](https://astrodoo.github.io). I love to travel, draw, read, watch movies, cook, and take photographs. 
+I have two young children, Natalie and Nathan. Married to an [astrophysicist](https://astrodoo.github.io). I love to travel, draw, read, watch movies, cook, and take photographs. 
 
