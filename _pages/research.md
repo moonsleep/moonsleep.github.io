@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
 ---
 
-[Collections of published paper](https://www.ncbi.nlm.nih.gov/sites/myncbi/1bafvRVlojk5y/bibliography/53542200/public/?sort=date&direction=ascending)
+[Collection of Published Papers](https://www.ncbi.nlm.nih.gov/sites/myncbi/1bafvRVlojk5y/bibliography/53542200/public/?sort=date&direction=ascending)
 
 ## Working projects 
 * Sleep and brain structure 
