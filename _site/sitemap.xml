@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/cv/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/links/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/teaching/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/Moon_CV_4.pdf</loc>
+<lastmod>2018-12-06T20:56:05+01:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Research"
+    url: _pages/research
+  - title: "Teaching"
+    url: _pages/teaching
+  - title: "Links"
+    url: _pages/links
+  - title: "CV"
+    url: _pages/cv
